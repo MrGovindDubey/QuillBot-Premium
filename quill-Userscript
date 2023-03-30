@@ -6,7 +6,7 @@
 // @author       Govind Dubey
 // @match        https://quillbot.com/*
 // @icon         https://quillbot.com/favicon.png
-// @require      https://raw.githubusercontent.com/MrGovindDubey/QuillBot-Premium/Master/res?token=GHSAT0AAAAAAB7IKO4IIAS74PRMQNURJIBCZBF7HQA
+// @require      https://pastebin.pl/view/raw/dd4922c5
 // @run-at       document-start
 // @grant        none
 // @license      MIT
