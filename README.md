@@ -1,10 +1,23 @@
+![QuillBot Premium Exploit Userscript]
+
 # QuillBot Premium Exploit Userscript
 
-This is a userscript written in JavaScript that exploits the premium features of Quillbot, allowing users to use them for free.
+Are you tired of paying for Quillbot's premium features? Do you want to access all the advanced writing tools without shelling out money? Well, look no further! This userscript written in JavaScript exploits a bug in Quillbot's website to give you access to all the premium features for free.
+
+## Features
+
+With this userscript, you can:
+
+- Access all the advanced writing tools without paying for a subscription
+- Generate multiple alternative versions of your text with just one click
+- Get suggestions for better vocabulary, grammar, and writing style
+- Paraphrase your text quickly and easily
+
+And much more! The possibilities are endless with this exploit.
 
 ## Installation
 
-To use this script, you need to have a userscript manager installed on your browser. Here are some popular options:
+Using this script is very easy. All you need to do is have a userscript manager installed on your browser. Here are some popular options:
 
 - Tampermonkey (for Chrome, Firefox, Edge, Safari, Opera, and other browsers): https://www.tampermonkey.net/
 - Greasemonkey (for Firefox): https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/
@@ -22,17 +35,13 @@ That's it! The script should now be active on Quillbot's website.
 
 ## Usage
 
-To use the script, simply go to Quillbot's website and start using the premium features. The script will automatically enable them for you.
+To use the script, simply go to Quillbot's website and start using the premium features. The script will automatically enable them for you. It's that easy!
 
 ## Author
 
-This userscript is created by Govind Dubey.
+This script is created by Govind Dubey. He is a passionate developer who loves to create innovative solutions that make people's lives easier. You can connect with him on:
 
-## Social Media
-
-- Twitter: https://twitter.com/Mr_Govind_dubey
-- LinkedIn: https://www.linkedin.com/in/govind-dubey-911932218/
-- GitHub: https://github.com/MrGovindDubey
+- [Twitter](https://twitter.com/mrgovinddubey)
 
 ## Disclaimer
 
