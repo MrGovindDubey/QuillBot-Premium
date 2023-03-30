@@ -6,7 +6,7 @@
 // @author       Govind Dubey
 // @match        https://quillbot.com/*
 // @icon         https://quillbot.com/favicon.png
-// @require      
+// @require      https://github.com/MrGovindDubey/QuillBot-Premium
 // @run-at       document-start
 // @grant        none
 // @license      WTFPL
