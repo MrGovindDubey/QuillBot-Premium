@@ -38,10 +38,10 @@ That's it! The script should now be active on Quillbot's website.
 To use the script, simply go to Quillbot's website and start using the premium features. The script will automatically enable them for you. It's that easy!
 
 ## Author
-
-This script is created by Govind Dubey. He is a passionate developer who loves to create innovative solutions that make people's lives easier. You can connect with him on:
+QuillBot-Premium Userscript is developed by Govind Dubey, a skilled cyber security expert and developer with a passion for coding and technology.  You can follow Govind on his social media handles for more updates on his projects and interests
 
 - [Twitter](https://twitter.com/mrgovinddubey)
+- [Instagram](https://www.instagram.com/mr.govinddubey/)
 
 ## Disclaimer
 
