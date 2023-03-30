@@ -6,10 +6,10 @@
 // @author       Govind Dubey
 // @match        https://quillbot.com/*
 // @icon         https://quillbot.com/favicon.png
-// @require      https://github.com/MrGovindDubey/QuillBot-Premium
+// @require      https://raw.githubusercontent.com/MrGovindDubey/QuillBot-Premium/Master/res?token=GHSAT0AAAAAAB7IKO4IIAS74PRMQNURJIBCZBF7HQA
 // @run-at       document-start
 // @grant        none
-// @license      WTFPL
+// @license      MIT
 // ==/UserScript==
 /* global ajaxHooker*/
 (function() {
