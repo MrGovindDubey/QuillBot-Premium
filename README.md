@@ -1,4 +1,3 @@
-![QuillBot Premium Exploit Userscript]
 
 # QuillBot Premium Exploit Userscript
 
