@@ -1,5 +1,6 @@
 
-# QuillBot Premium Exploit Userscript![icon](https://user-images.githubusercontent.com/118271775/229145063-ac05d99c-d876-44c6-b10d-95156cc6b444.png)
+# QuillBot Premium Exploit Userscript!
+<img src="https://user-images.githubusercontent.com/118271775/229145063-ac05d99c-d876-44c6-b10d-95156cc6b444.png" width="300" height="300">
 
 
 Are you tired of paying for Quillbot's premium features? Do you want to access all the advanced writing tools without shelling out money? Well, look no further! This userscript written in JavaScript exploits a bug in Quillbot's website to give you access to all the premium features for free.
