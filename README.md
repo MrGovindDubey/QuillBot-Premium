@@ -47,3 +47,10 @@ QuillBot-Premium Userscript is developed by Govind Dubey, a skilled cyber securi
 ## Disclaimer
 
 This script is intended for educational and research purposes only. Please note that using this script to access Quillbot's premium features without paying for them is a violation of the terms of service of Quillbot and may lead to legal consequences. The author of this script is not responsible for any issues or damages that may arise from the use of this script. Use it at your own risk and discretion.
+
+
+
+POC
+![Screenshot from 2023-04-01 14-56-25](https://user-images.githubusercontent.com/118271775/234381863-8ae99683-8cd2-4e7d-9fb8-e2764d1d5388.png)
+
+
