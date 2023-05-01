@@ -1,0 +1,41 @@
+This is a JavaScript UserScript that uses the ajaxHooker library to modify the response from a specific HTTP request.
+
+Here is a detailed breakdown of what each part of the script does:
+
+```// ==/UserScript==```
+This is a metadata block that indicates that this is a UserScript. It is used by UserScript managers like Greasemonkey or Tampermonkey to identify and manage the script.
+
+```/* global ajaxHooker*/```
+This is a comment that indicates that the script is using a variable called ajaxHooker, which is not defined in this script. This variable is expected to be defined in another script or library that is loaded before this one.
+
+```(function() { ... })();```
+This is an immediately-invoked function expression (IIFE), which is used to create a new scope for the script. This helps prevent naming conflicts and keeps the global namespace clean.
+
+```'use strict';```
+This is a directive that enables strict mode in JavaScript. Strict mode makes it easier to write "secure" JavaScript by disallowing certain actions and enforcing more rigorous syntax rules.
+
+```ajaxHooker.hook(request => { ... });```
+This is the main part of the script that modifies the HTTP response. The `ajaxHooker` variable is assumed to refer to a library that provides a `hook` function. This function takes a callback function as its argument, which is called for every HTTP request that matches a certain pattern.
+
+In this script, the callback function checks if the URL of the request ends with the string "get-account-details". If it does, the function modifies the response by setting the `response` property of the `request` object. This property is expected to be a function that takes the HTTP response text as its argument.
+
+```const json=JSON.parse(res.responseText);```
+This line parses the HTTP response text as a JSON object.
+
+```const a="data" in json?json.data:json;```
+This line extracts a property from the JSON object called "data". If the object has a property called "data", its value is assigned to the `a` variable. Otherwise, the entire JSON object is assigned to `a`.
+
+```a.profile.accepted_premium_modes_tnc=true;```
+This line modifies a property of the `a` object called "accepted_premium_modes_tnc" to `true`.
+
+```a.profile.premium=true;```
+This line modifies another property of the `a` object called "premium" to `true`.
+
+```res.responseText=JSON.stringify("data" in json?(json.data=a,json):a);```
+This line modifies the HTTP response text by stringifying the modified JSON object and assigning it to the `responseText` property of the `res` object. If the original JSON object had a "data" property, the modified `a` object is assigned to it and the entire JSON object is returned. Otherwise, only the modified `a` object is returned.
+
+
+
+To summarize, the script intercepts a specific HTTP request and modifies its JSON response by setting two properties (accepted_premium_modes_tnc and premium) to true in the profile object. It then updates the HTTP response text with the modified JSON object.
+
+It's worth noting that this script assumes that the ajaxHooker library is defined elsewhere and that the URL it is targeting (get-account-details) is a valid endpoint on the website it is being used on. Additionally, modifying the HTTP response of a website can have unintended consequences and potentially break the website's functionality, so it's important to be cautious when using scripts like this.
