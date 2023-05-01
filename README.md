@@ -69,7 +69,7 @@ https://user-images.githubusercontent.com/118271775/235504581-fd631635-178c-47dc
 https://user-images.githubusercontent.com/118271775/235504635-dae4dd4c-5bce-47a8-94bf-d9d8f41eaba2.mp4
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/MrGovindDubey/QuillBot-Premium/blob/main/LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/MrGovindDubey/QuillBot-Premium/blob/Master/LICENSE) file for details.
 
 
 
