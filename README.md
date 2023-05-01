@@ -50,6 +50,7 @@ This script is intended for educational and research purposes only. Please note 
 
 
 
+
 ## Exploit POC
 ![Screenshot from 2023-04-01 14-56-25](https://user-images.githubusercontent.com/118271775/234381863-8ae99683-8cd2-4e7d-9fb8-e2764d1d5388.png)
 
