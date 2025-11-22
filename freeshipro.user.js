@@ -7,8 +7,8 @@
 // @match        https://fireship.io/*
 // @icon         https://em-content.zobj.net/source/apple/391/fire_1f525.png
 // @grant        none
-// @downloadURL https://update.greasyfork.org/scripts/455330/Freeship.user.js
-// @updateURL https://update.greasyfork.org/scripts/455330/Freeship.meta.js
+// @downloadURL https://github.com/MrGovindDubey/QuillBot-Premium/raw/refs/heads/Master/freeshipro.user.js
+// @updateURL https://github.com/MrGovindDubey/QuillBot-Premium/raw/refs/heads/Master/freeshipro.user.js
 // ==/UserScript==
 
 async function unlock() {
